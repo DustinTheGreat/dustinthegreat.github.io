@@ -19,7 +19,7 @@ html {
 }
 .profile-photo {
   height: 300px;
-  background-image: url(https://scontent.fnic1-1.fna.fbcdn.net/v/t1.0-9/37597200_2211712995729036_276731524634640384_n.jpg?_nc_cat=111&_nc_ht=scontent.fnic1-1.fna&oh=54d73e1fc8c5cacaf011503ba8303df4&oe=5D6AD582);
+  background-image: url(../pic.jpg);
   background-size: cover;
   background-position: top;
 }
